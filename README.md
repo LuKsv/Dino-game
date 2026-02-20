@@ -1,4 +1,4 @@
-# 🦖 Gra Dinozaurów (Dino Game) - ESP32
+# 🦖(Dino Game) - ESP32
 
 Projekt prostej, kultowej gry w **DINO** (znanej z przeglądarki Google Chrome), zrealizowany na mikrokontrolerze **ESP32**. Gra została zaprogramowana w środowisku Arduino IDE i wykorzystuje zewnętrzny wyświetlacz LCD.
 
